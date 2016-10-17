@@ -14,3 +14,6 @@
 	path = library/securimage
 	url = https://github.com/mantisbt/securimage.git
 	branch = mantis
+[submodule "plugins/taskmantis"]
+	path = plugins/taskmantis
+	url = https://github.com/megamtech/taskmantis.git
